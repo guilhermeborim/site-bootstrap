@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', cursive;
+}
+
+.sticky-top {
+    background-color: #fff
+}
+#menu-navegacao a {
+    color: #000;
+}
+#menu-navegacao a.active {
+    background-color: rgba(255, 0, 221, 0.747);
+}
+
+.social-links,
+.social-links li,a {
+    list-style: none;
+    display: inline;
+    text-decoration: none;    
+}
+
+
+.botao,
+.botao:hover {
+    background-color: rgba(255, 0, 221, 0.747);
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgba(255, 0, 221, 0.747);
+}
+#produtos button {
+    color: #000;
+}
+
+.colored {
+    color: #000;
+}
